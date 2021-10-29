@@ -62,7 +62,7 @@ The final XGBoost Model we came to was slightly overfit on the training data but
 
 We reccommend that Wells of Life use this model in conjuction with their own resources to identify faulty wells. Our model will still classify some non -functional wells as functional 20% of the time so further investigation will be needed at times.
 
-**Future Work**
+## Future Work
 
 We'd like to further engineer more features to give our model better data to make predictions off of. We'd also like to further tune hyperparameters to optimize our model's performance on unseen data. With more time we would like to input climate data into our model to see how climate may be affecting wells, as well. 
 
