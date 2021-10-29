@@ -6,7 +6,7 @@ Tanzania is currently facing an issue with water. There are thousands of wells a
 
 We'll examine what features may be contributing to non-functioning wells, as well as functioning ones, to create a model that can best distinguish between the two and guide efforts for fixing the wells to the right place. 
 
-#### Stakeholder 
+## Stakeholder 
 
 Through this project we'd like to help the organization, Wells Of Life. They're looking to save the community time. It can take an average of 4-5 hours to find a functioning water source daily. We want to help Wells of Life help get access to clean water. Many of these failing pumps are rudden with disease and it's having a direct impact on life expectancy. Wells of Life is also hoping that the results of this leads to families generating income, spending more time together, or having the time to now attend schools. 
 
