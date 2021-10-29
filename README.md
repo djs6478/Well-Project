@@ -74,6 +74,7 @@ Overall, we'd like to continuous gather more information on the wells in Tanzani
 ├── README.md                    <- The top-level README for reviewers of this project. 
 ├── data                         <- Sourced externally and generated from code. 
 ├── notebooks                    <- Folder containing Jen, Wayne, and Derek Jupyter Notebooks housing individual work for this project. 
+├── EDA                          <- Exploratory Data Analysis containing Jen, Wayne, and Derek EDA Jupyter Notebooks. 
 ├── .gitignore                   <- Plain text file where each line contains a pattern for files/directories to ignore.
 ├── final_notebook.ipynb         <- Final Jupyter notebook for this project, containing a final XGBoost model that tested on the holdout set. 
 └── presentation.pdf             <- PDF of the presentation slides for this project.                 
