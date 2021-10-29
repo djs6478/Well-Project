@@ -56,7 +56,7 @@ Our final model was an XGBoost model that gave us the best results on precision 
 
 **Evaluation**
 
-The final XGBoost Model we came to was slightly overfit on the training data but performed well on our unseen holdout data. Out of 8,910 predictions it only classified 1,249 wells as functional when they were not. A precision score of 77% means that we have a pretty low false positive rate. 
+The final XGBoost Model we came to was slightly overfit on the training data but performed well on our unseen holdout data. Out of 5438 wells that were classified as functional only 1180 of them were actually non functional.  A precision score of 78% means that we have a pretty low false positive rate. Test precision score is 4 points higher than our original simple decision tree model, but that model was severely overfit due to there being no max depth limit in that model. 
 
 **Conclusion**
 
@@ -67,3 +67,8 @@ We reccommend that Wells of Life use this model in conjuction with their own res
 We'd like to further engineer more features to give our model better data to make predictions off of. We'd also like to further tune hyperparameters to optimize our model's performance on unseen data. With more time we would like to input climate data into our model to see how climate may be affecting wells, as well. 
 
 Overall, we'd like to continuous gather more information on the wells in Tanzania to add to our data and improve our model.
+
+**How To Navigate the Repository**
+
+- The Data that we used in this project can be found in the data folder.
+- All of the jupyter notebooks are located in the notebooks folder and  __final_notebook__ is where the bulk of our analysis can be found.
