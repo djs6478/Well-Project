@@ -6,7 +6,7 @@ Tanzania is currently facing an issue with water. There are thousands of wells a
 
 We'll examine what features may be contributing to non-functioning wells, as well as functioning ones, to create a model that can best distinguish between the two and guide efforts for fixing the wells to the right place. 
 
-#### __Stakeholder__ 
+#### Stakeholder 
 
 Through this project we'd like to help the organization, Wells Of Life. They're looking to save the community time. It can take an average of 4-5 hours to find a functioning water source daily. We want to help Wells of Life help get access to clean water. Many of these failing pumps are rudden with disease and it's having a direct impact on life expectancy. Wells of Life is also hoping that the results of this leads to families generating income, spending more time together, or having the time to now attend schools. 
 
@@ -68,7 +68,12 @@ We'd like to further engineer more features to give our model better data to mak
 
 Overall, we'd like to continuous gather more information on the wells in Tanzania to add to our data and improve our model.
 
-## How To Navigate the Repository
+**Repository Navigation**
 
-- The Data that we used in this project can be found in the data folder.
-- All of the jupyter notebooks are located in the notebooks folder and  __final_notebook__ is where the bulk of our analysis can be found.
+```
+├── README.md                    <- The top-level README for reviewers of this project. 
+├── data                         <- Sourced externally and generated from code. 
+├── notebooks                    <- Folder containing Jen, Wayne, and Derek Jupyter Notebooks housing individual work for this project. 
+├── .gitignore                   <- Plain text file where each line contains a pattern for files/directories to ignore.
+├── final_notebook.ipynb         <- Final Jupyter notebook for this project, containing a final XGBoost model that tested on the holdout set. 
+└── presentation.pdf             <- PDF of the presentation slides for this project.                 
