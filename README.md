@@ -68,6 +68,10 @@ We'd like to further engineer more features to give our model better data to mak
 
 Overall, we'd like to continuously gather more information on the wells in Tanzania to add to our data and improve our model.
 
+## Presentation Link 
+
+[Presentation](https://github.com/djs6478/Well-Project/blob/main/presentation.pdf)
+
 ## Repository Navigation
 
 ```
