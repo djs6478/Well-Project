@@ -66,7 +66,7 @@ We reccommend that Wells of Life use this model in conjuction with their own res
 
 We'd like to further engineer more features to give our model better data to make predictions off of. We'd also like to further tune hyperparameters to optimize our model's performance on unseen data. With more time we would like to input climate data into our model to see how climate may be affecting wells, as well. 
 
-Overall, we'd like to continuous gather more information on the wells in Tanzania to add to our data and improve our model.
+Overall, we'd like to continuously gather more information on the wells in Tanzania to add to our data and improve our model.
 
 ## Repository Navigation
 
