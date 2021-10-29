@@ -68,7 +68,7 @@ We'd like to further engineer more features to give our model better data to mak
 
 Overall, we'd like to continuous gather more information on the wells in Tanzania to add to our data and improve our model.
 
-## Repository Navigation**
+## Repository Navigation
 
 ```
 ├── README.md                    <- The top-level README for reviewers of this project. 
